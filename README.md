@@ -35,3 +35,7 @@ http://nali.org/website-checklist/
 * List of companies offering free Web hosting to 501(c)3 nonprofits and other charities
 
 http://forums.techsoup.org/cs/community/f/24/t/30974.aspx
+
+* webinar software for your product demos, content strategy or to train your customers
+
+https://livestorm.co/

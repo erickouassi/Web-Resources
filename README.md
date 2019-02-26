@@ -29,3 +29,9 @@ https://webaim.org/
 * Website Features Checklist: The 65 Ultimate Must-Haves for Your Site
 
 https://martech.zone/website-features-checklist/
+
+http://nali.org/website-checklist/
+
+* List of companies offering free Web hosting to 501(c)3 nonprofits and other charities
+
+http://forums.techsoup.org/cs/community/f/24/t/30974.aspx

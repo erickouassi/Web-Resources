@@ -39,3 +39,7 @@ http://forums.techsoup.org/cs/community/f/24/t/30974.aspx
 * webinar software for your product demos, content strategy or to train your customers
 
 https://livestorm.co/
+
+* Find out which websites are built with WordPress?
+
+https://www.isitwp.com/

@@ -48,3 +48,13 @@ https://www.isitwp.com/
 HTML, CSS and JS are the parts of all websites that users directly interact with. 
 
 https://html-css-js.com/
+
+
+* Copy special characters and emojis that aren’t on your keyboard.
+
+https://copychar.cc/
+
+
+* Check the current speed of your Internet connection
+
+https://fast.com/en/

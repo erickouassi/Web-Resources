@@ -58,3 +58,8 @@ https://copychar.cc/
 * Check the current speed of your Internet connection
 
 https://fast.com/en/
+
+* Everything you need for effective email marketing
+  Powerful features to grow your subscriber base and create long-lasting relationships.
+
+https://www.sender.net/

@@ -63,3 +63,7 @@ https://fast.com/en/
   Powerful features to grow your subscriber base and create long-lasting relationships.
 
 https://www.sender.net/
+
+* Add Reminders lets you automatically send email notifications before / after a specific date (deadline).
+
+https://support.add-reminders.com/hc/en-us

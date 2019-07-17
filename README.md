@@ -67,3 +67,7 @@ https://www.sender.net/
 * Add Reminders lets you automatically send email notifications before / after a specific date (deadline).
 
 https://support.add-reminders.com/hc/en-us
+
+* A tutorial on how to use Excel.
+
+https://www.excel-easy.com/

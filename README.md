@@ -71,3 +71,8 @@ https://support.add-reminders.com/hc/en-us
 * A tutorial on how to use Excel.
 
 https://www.excel-easy.com/
+
+
+* Share Anywhere
+
+https://www.addtoany.com/

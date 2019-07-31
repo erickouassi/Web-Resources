@@ -80,3 +80,7 @@ https://www.addtoany.com/
 * Articulate.js
 
 http://articulate.purefreedom.com/
+
+* Share to Facebook, Twitter, Google+ and other social networks using simple HTML buttons
+
+http://simplesharingbuttons.com

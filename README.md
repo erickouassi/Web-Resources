@@ -76,3 +76,7 @@ https://www.excel-easy.com/
 * Share Anywhere
 
 https://www.addtoany.com/
+
+* Articulate.js
+
+http://articulate.purefreedom.com/

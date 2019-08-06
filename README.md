@@ -84,3 +84,8 @@ http://articulate.purefreedom.com/
 * Share to Facebook, Twitter, Google+ and other social networks using simple HTML buttons
 
 http://simplesharingbuttons.com
+
+
+* We use Sendinblue for transactional SMS messages and emails.
+
+https://www.sendinblue.com/

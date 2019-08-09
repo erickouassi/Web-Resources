@@ -9,4 +9,4 @@ The Dynamic Dummy Image Generator is a simple tool for generating dummy/filler i
 
 Placeholder Images Made For You [JPG, GIF & PNG]
 
-[Placeholder Images](https://placeholder.com/)
+[placeholder.com](https://placeholder.com/)

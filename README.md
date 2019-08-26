@@ -89,3 +89,7 @@ http://simplesharingbuttons.com
 * We use Sendinblue for transactional SMS messages and emails.
 
 https://www.sendinblue.com/
+
+* PDF to Word
+
+https://easypdf.com/pdf-to-word

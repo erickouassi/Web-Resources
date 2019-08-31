@@ -98,3 +98,7 @@ https://easypdf.com/pdf-to-word
 * Imgflip is a simple and fast website for creating and sharing images. We specialize in memes and GIFs
 
 https://imgflip.com/
+
+* Calculate Lead Time
+
+http://www.onlineconversion.com/lead_time.htm

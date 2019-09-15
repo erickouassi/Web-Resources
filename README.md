@@ -102,3 +102,9 @@ https://imgflip.com/
 * Calculate Lead Time
 
 http://www.onlineconversion.com/lead_time.htm
+
+
+Screenshot Guru
+Take beautiful, high-resolution screen captures of websites and tweets
+
+https://screenshot.guru/

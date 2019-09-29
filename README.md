@@ -108,3 +108,8 @@ Screenshot Guru
 Take beautiful, high-resolution screen captures of websites and tweets
 
 https://screenshot.guru/
+
+
+# How To Code in JavaScript
+
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript

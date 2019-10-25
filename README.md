@@ -110,6 +110,10 @@ Take beautiful, high-resolution screen captures of websites and tweets
 https://screenshot.guru/
 
 
+* Free Monthly Calendar or Planner Printable Online
+
+https://www.somacon.com/p352.php
+
 # How To Code in JavaScript
 
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript

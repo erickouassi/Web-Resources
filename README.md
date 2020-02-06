@@ -114,6 +114,11 @@ https://screenshot.guru/
 
 https://www.somacon.com/p352.php
 
+Random Date Generator is free online application.
+
+http://random-date-generator.com/
+
+
 # How To Code in JavaScript
 
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript

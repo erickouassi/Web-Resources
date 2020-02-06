@@ -114,9 +114,17 @@ https://screenshot.guru/
 
 https://www.somacon.com/p352.php
 
-Random Date Generator is free online application.
+* Random Date Generator is free online application.
 
 http://random-date-generator.com/
+
+* See how well a page follows the Google guidelines.
+
+https://varvy.com/
+
+* Apart from counting words and characters, our online editor can help you to improve word choice and writing style, and, optionally, help you to detect grammar mistakes and plagiarism.
+
+https://wordcounter.net/
 
 
 # How To Code in JavaScript

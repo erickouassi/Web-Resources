@@ -4,7 +4,7 @@ Here are some useful links and documents.
 
 | Description | Link |
 | ------ | ------ |
-| Check Nameservers | [plugins/dropbox/README.md][LkNs] |
+| Check Nameservers | [checknameservers.com][LkNs] |
 
 
 

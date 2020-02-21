@@ -5,8 +5,7 @@ Here are some useful links and documents.
 | Description | Link |
 | ------ | ------ |
 | Check Nameservers | [checknameservers.com][LkNs] |
-| Get an SMS long number and start
-a two-way conversation with your customers, today.| [https://www.clickatell.com/][LkLn] |
+| Get an SMS long number and start a two-way conversation with your customers, today.| [https://www.clickatell.com/][LkLn] |
 
 
 

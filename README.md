@@ -6,22 +6,16 @@ Here are some useful links and documents.
 | ------ | ------ |
 | Check Nameservers | [checknameservers.com][LkNs] |
 | Get an SMS long number and start a two-way conversation with your customers, today.| [https://www.clickatell.com/][LkLn] |
-
+|Find the nameservers & IP address of any domain name. | [http://checknameservers.com][LkNs] |
 
 
 
 [LkNs]: <http://checknameservers.com/>
 [LkLn]: <https://www.clickatell.com/>
-
+[LkNs]: <http://checknameservers.com/>
 
 
 * https://pdfhost.io
-
-* Check Nameservers
-
-Find the nameservers & IP address of any domain name.
-
-http://checknameservers.com/
 
 * Shorten and Share Your Links for Free
 

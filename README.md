@@ -40,6 +40,7 @@ Here are some useful links and documents.
 | Placeholder Images Made For You [JPG, GIF & PNG] | [https://placeholder.com][LkPh] |
 | Commonly used for providing a placeholder image where actual content will reside in a publication, website, or similar. | [http://fpoimg.com][LkCi] |
 | PDF Host | [https://pdfhost.io][LkPf] |
+| THE 100% FREE QR CODE GENERATOR | [https://www.qrcode-monkey.com/][LkQc] |
 
 
 [LkNs]: <http://checknameservers.com/>
@@ -78,3 +79,4 @@ Here are some useful links and documents.
 [LkPh]: <https://placeholder.com>
 [LkCi]: <http://fpoimg.com>
 [LkPf]: <https://pdfhost.io>
+[LkQc]: <https://www.qrcode-monkey.com/>

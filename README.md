@@ -41,7 +41,7 @@ Here are some useful links and documents.
 | Commonly used for providing a placeholder image where actual content will reside in a publication, website, or similar. | [http://fpoimg.com][LkCi] |
 | PDF Host | [https://pdfhost.io][LkPf] |
 | THE 100% FREE QR CODE GENERATOR | [https://www.qrcode-monkey.com/][LkQc] |
-
+| Create your custom QR Code with Logo| [https://www.qrcode-monkey.com][LkQm] |
 
 [LkNs]: <http://checknameservers.com/>
 [LkLn]: <https://www.clickatell.com/>

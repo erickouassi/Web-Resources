@@ -7,38 +7,42 @@ Here are some useful links and documents.
 | Check Nameservers | [checknameservers.com][LkNs] |
 | Get an SMS long number and start a two-way conversation with your customers, today.| [https://www.clickatell.com/][LkLn] |
 |Find the nameservers & IP address of any domain name. | [http://checknameservers.com][LkNs] |
+| Shorten and Share Your Links for Free | [https://www.shorturl.at][LkSu] |
+| Free WordPress Themes | [https://themeisle.com/wordpress-themes/free/][LkWt] |
+|  Create a free logo in seconds! | [https://www.freelogodesign.org][LkLd] |
+| ColorZilla for Google Chrome is an extension that assists web developers and graphic designers with color related tasks - both basic and advanced. | [http://www.colorzilla.com/chrome/][LkCc] |
+| We have web accessibility in mind | [https://webaim.org][LkWa] |
 
 
+
+
+| ------ | [][Lk] |
 
 [LkNs]: <http://checknameservers.com/>
 [LkLn]: <https://www.clickatell.com/>
 [LkNs]: <http://checknameservers.com/>
+[LkSu]: <https://www.shorturl.at>
+[LkWt]: <https://themeisle.com/wordpress-themes/free/>
+[LkLd]: <https://www.freelogodesign.org>
+[LkCc]: <http://www.colorzilla.com/chrome/>
+[LkWa]: <https://webaim.org>
+
+
 
 
 * https://pdfhost.io
 
-* Shorten and Share Your Links for Free
-
-https://www.shorturl.at/
 
 
-* Free WordPress Themes
-
-https://themeisle.com/wordpress-themes/free/
 
 
-* Create a free logo in seconds!
 
-https://www.freelogodesign.org/
 
-* ColorZilla for Google Chrome is an extension that assists web developers and graphic designers with color related tasks - both basic and advanced. 
 
-http://www.colorzilla.com/chrome/
 
-* We have web accessibility in mind: 
-Our mission is to empower organizations to make their web content accessible to people with disabilities.
 
-https://webaim.org/
+
+
 
 * Website Features Checklist: The 65 Ultimate Must-Haves for Your Site
 

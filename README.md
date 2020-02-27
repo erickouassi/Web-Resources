@@ -4,6 +4,7 @@ Here are some useful links and documents.
 
 | Description | Link |
 | ------ | ------ |
+| The musing of Martin Hawksey (EdTech Explorer) | [https://mashe.hawksey.info/][LkMh] |
 | Check Nameservers | [checknameservers.com][LkNs] |
 | Get an SMS long number and start a two-way conversation with your customers, today.| [https://www.clickatell.com/][LkLn] |
 |Find the nameservers & IP address of any domain name. | [http://checknameservers.com][LkNs] |
@@ -42,7 +43,7 @@ Here are some useful links and documents.
 | PDF Host | [https://pdfhost.io][LkPf] |
 |  Create your custom QR Code with Logo | [https://www.qrcode-monkey.com/][LkQc] |
 
-
+[LkMh]: <https://mashe.hawksey.info/>
 [LkNs]: <http://checknameservers.com/>
 [LkLn]: <https://www.clickatell.com/>
 [LkNs]: <http://checknameservers.com/>

@@ -32,7 +32,7 @@ Here are some useful links and documents.
 | PDF to Word | [https://easypdf.com/pdf-to-word][LkPw] |
 | Imgflip is a simple and fast website for creating and sharing images. We specialize in memes and GIFs | [https://imgflip.com/][LkIf] |
 | Calculate Lead Time | [http://www.onlineconversion.com/lead_time.htm][LkCl] |
-| Take beautiful, high-resolution screen captures of websites and tweets | []https://screenshot.guru/[LkSs] |
+| Take beautiful, high-resolution screen captures of websites and tweets | [https://screenshot.guru/][LkSs] |
 | Free Monthly Calendar or Planner Printable Online | [https://www.somacon.com/p352.php][LkMc] |
 | Random Date Generator is free online application | [http://random-date-generator.com/][LkRd] |
 | See how well a page follows the Google guidelines. | [https://varvy.com/][LkFg] |

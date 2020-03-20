@@ -4,7 +4,7 @@ Here are some useful links and documents.
 
 | Description | Link |
 | ------ | ------ |
-| Freeconferencecall.com| www.freeconferencecall.com |
+| Freeconferencecall.com| [www.freeconferencecall.com][LkCc] |
 | Free Online Screen Recorder The first screen recorder that requires no installations. | [https://free.hubcap.video/][LkHv]
 | The musing of Martin Hawksey (EdTech Explorer) | [https://mashe.hawksey.info/][LkMh] |
 | Check Nameservers | [checknameservers.com][LkNs] |
@@ -47,7 +47,7 @@ Here are some useful links and documents.
 
 
 
-
+[LkCc]: <www.freeconferencecall.com>
 [LkHv]: <https://free.hubcap.video/>
 [LkMh]: <https://mashe.hawksey.info/>
 [LkNs]: <http://checknameservers.com/>

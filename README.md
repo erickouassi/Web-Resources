@@ -4,8 +4,7 @@ Here are some useful links and documents.
 
 | Description | Link |
 | ------ | ------ |
-| Team Management Simplified
-Everything you need to manage and instantly communicate with your team or group. It's easy, intuitive, and free! | https://www.teamreach.com/ |
+| Team Management Simplified Everything you need to manage and instantly communicate with your team or group. It's easy, intuitive, and free! | https://www.teamreach.com/ |
 | Freeconferencecall.com | [www.freeconferencecall.com][LkCc] |
 | Free Online Screen Recorder The first screen recorder that requires no installations. | [https://free.hubcap.video/][LkHv]
 | The musing of Martin Hawksey (EdTech Explorer) | [https://mashe.hawksey.info/][LkMh] |

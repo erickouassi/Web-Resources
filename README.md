@@ -62,7 +62,7 @@ Here are some useful links and documents.
 [LkCc]: <http://www.colorzilla.com/chrome/>
 [LkWa]: <https://webaim.org>
 [LkFc]: <https://martech.zone/website-features-checklist/>
-[LkWl]: <http://nali.org/website-checklist>
+[LkWl]: <https://nali.org/posts/2017/10/wordpress-checklist-150-things-to-do-before-launch/>
 [LkWh]: <http://forums.techsoup.org/cs/community/f/24/t/30974.aspx>
 [LkLs]: <https://livestorm.co/>
 [LkIw]: <https://www.isitwp.com/>

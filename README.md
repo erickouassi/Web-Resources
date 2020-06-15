@@ -19,7 +19,7 @@ Here are some useful links and documents.
 | ColorZilla for Google Chrome is an extension that assists web developers and graphic designers with color related tasks - both basic and advanced. | [http://www.colorzilla.com/chrome/][LkCc] |
 | We have web accessibility in mind | [https://webaim.org][LkWa] |
 | Website Features Checklist: The 65 Ultimate Must-Haves for Your Site | [https://martech.zone/website-features-checklist/][LkFc] |
-| Website Checklist | [http://nali.org/website-checklist][LkWl] |
+| Website Checklist | [https://nali.org/posts/2017/10/wordpress-checklist-150-things-to-do-before-launch/][LkWl] |
 | List of companies offering free Web hosting to 501(c)3 nonprofits and other charities | [http://forums.techsoup.org/cs/community/f/24/t/30974.aspx][LkWh] |
 | webinar software for your product demos, content strategy or to train your customers | [https://livestorm.co/][LkLs] |
 | Find out which websites are built with WordPress? | [https://www.isitwp.com/][LkIw] |

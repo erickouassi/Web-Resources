@@ -91,3 +91,4 @@ Here are some useful links and documents.
 [LkCi]: <http://fpoimg.com>
 [LkPf]: <https://pdfhost.io>
 [LkQc]: <https://www.qrcode-monkey.com/>
+[LkGd]: <https://www.generatedata.com/>

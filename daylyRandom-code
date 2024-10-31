@@ -1,0 +1,35 @@
+<div id="game-id"></div> <!-- Display Game ID -->
+
+<script>
+function generateUniqueGameID(date, fixedLetter) {
+    const month = (date.getMonth() + 1).toString().padStart(2, '0');
+    const day = date.getDate().toString().padStart(2, '0');
+    const year = date.getFullYear().toString().slice(-2);
+    const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    const randomLetter1 = alphabet[Math.floor(Math.random() * alphabet.length)];
+    const randomLetter2 = alphabet[Math.floor(Math.random() * alphabet.length)];
+    return `${month}${day}${year}${randomLetter1}${randomLetter2}${fixedLetter}`;
+  }
+  
+  function getDailyGameID() {
+    const now = new Date();
+    const today = now.toISOString().slice(0, 10);
+    const storedGameID = localStorage.getItem("dailyGameID");
+  
+    if (storedGameID && storedGameID.startsWith(today)) {
+      return storedGameID;
+    } else {
+      const newGameID = generateUniqueGameID(now, 'R');  // Change it to anything you like.
+      localStorage.setItem("dailyGameID", newGameID);
+      return newGameID;
+    }
+  }
+  
+  function updateGameIDDisplay() {
+    const gameIDElement = document.getElementById("game-id");
+    gameIDElement.textContent = `Verification Code:${getDailyGameID()}`;
+  }
+  
+  // Call the updateGameIDDisplay function to initially display the game ID
+  updateGameIDDisplay();
+</script>

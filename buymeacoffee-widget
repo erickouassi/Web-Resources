@@ -1,0 +1,25 @@
+        <div><!-- buymeacoffee widget -->
+            <button id="buyMeACoffee">☕ Buy Me a Coffee</button>
+          
+            <script>
+              const buyMeACoffeeButton = document.getElementById('buyMeACoffee');
+          
+              buyMeACoffeeButton.addEventListener('click', () => {
+                window.open('https://erickouassi.com/donate.html', '_blank');  
+              });
+          
+              // Inline CSS using JavaScript
+              buyMeACoffeeButton.style.fontWeight = 'bold';
+              buyMeACoffeeButton.style.backgroundColor = '#FF0000';
+              buyMeACoffeeButton.style.border = 'none';
+              buyMeACoffeeButton.style.color = 'white';
+              buyMeACoffeeButton.style.padding = '15px 32px';
+              buyMeACoffeeButton.style.textAlign = 'center';
+              buyMeACoffeeButton.style.textDecoration = 'none';
+              buyMeACoffeeButton.style.display = 'inline-block';
+              buyMeACoffeeButton.style.fontSize = '16px';
+              buyMeACoffeeButton.style.margin = '4px 2px';
+              buyMeACoffeeButton.style.cursor = 'pointer';
+              buyMeACoffeeButton.style.borderRadius = '5px';
+            </script>
+          </div>

@@ -1,0 +1,6 @@
+<div>
+    <p>   
+    © <span id="year"></span> <a onclick="location.href='https://erickouassi.com/';" target="_blank" >Eric Kouassi</a>
+  </p>
+  <script type="text/javascript">document.getElementById("year").innerHTML = new Date().getFullYear();</script> 
+</div>

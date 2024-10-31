@@ -1,0 +1,37 @@
+<div id="menuToggle" onclick="toggleMenu()">&#9776;</div>
+        <div class="menu" id="menu">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="leaderboard.html">Leaderboard</a>
+            <a href="form.html">Form</a>
+            <a href="contact.html">Contact</a>
+        </div>
+
+
+<script>
+var style = document.createElement('style');
+style.innerHTML = `
+    #menu {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    #menu a {
+        margin: 10px 0;
+        text-decoration: none;
+        color: #333;
+        font-size: 18px;
+    }
+`;
+document.head.appendChild(style);
+
+function toggleMenu() {
+    const menu = document.getElementById("menu");
+    if (menu.style.display === "none" || menu.style.display === "") {
+        menu.style.display = "flex";
+    } else {
+        menu.style.display = "none";
+    }
+}
+</script>

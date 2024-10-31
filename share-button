@@ -1,0 +1,21 @@
+<button onclick="shareGame()">Share</button>
+
+
+function shareGame() {
+    let url = window.location.href;
+    let text = "Check out this blood matching Game!";
+    if (navigator.share) {
+        navigator.share({
+            title: 'Alphabet Guessing Game',
+            text: text,
+            url: url
+        }).then(() => {
+            //console.log('Thanks for sharing!');
+        }).catch(err => {
+           // console.log(`Couldn't share because of`, err.message);
+        });
+    } else {
+        // Fallback for browsers that don't support the Web Share API
+        prompt('Copy this link to share:', url);
+    }
+}
